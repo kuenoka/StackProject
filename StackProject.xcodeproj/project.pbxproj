@@ -15,6 +15,7 @@
 		529DE6322550653A00DF4C1A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 529DE6302550653A00DF4C1A /* LaunchScreen.storyboard */; };
 		529DE63D2550653A00DF4C1A /* StackProjectTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 529DE63C2550653A00DF4C1A /* StackProjectTests.swift */; };
 		529DE6482550653A00DF4C1A /* StackProjectUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 529DE6472550653A00DF4C1A /* StackProjectUITests.swift */; };
+		529DE6592550655C00DF4C1A /* CustomStack.swift in Sources */ = {isa = PBXBuildFile; fileRef = 529DE6582550655C00DF4C1A /* CustomStack.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		529DE6432550653A00DF4C1A /* StackProjectUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = StackProjectUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		529DE6472550653A00DF4C1A /* StackProjectUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StackProjectUITests.swift; sourceTree = "<group>"; };
 		529DE6492550653A00DF4C1A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		529DE6582550655C00DF4C1A /* CustomStack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomStack.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				529DE6252550653A00DF4C1A /* AppDelegate.swift */,
 				529DE6272550653A00DF4C1A /* SceneDelegate.swift */,
 				529DE6292550653A00DF4C1A /* ViewController.swift */,
+				529DE6582550655C00DF4C1A /* CustomStack.swift */,
 				529DE62B2550653A00DF4C1A /* Main.storyboard */,
 				529DE62E2550653A00DF4C1A /* Assets.xcassets */,
 				529DE6302550653A00DF4C1A /* LaunchScreen.storyboard */,
@@ -259,6 +262,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				529DE62A2550653A00DF4C1A /* ViewController.swift in Sources */,
+				529DE6592550655C00DF4C1A /* CustomStack.swift in Sources */,
 				529DE6262550653A00DF4C1A /* AppDelegate.swift in Sources */,
 				529DE6282550653A00DF4C1A /* SceneDelegate.swift in Sources */,
 			);
